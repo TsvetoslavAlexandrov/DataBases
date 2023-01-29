@@ -3,9 +3,18 @@ USE SoftUni
 GO
 
 
-SELECT * 
-  FROM Employees
+SELECT d.DepartmentID, STRING_AGG([Name], ', ') AS Names
+  FROM Departments AS d
+GROUP BY d.DepartmentID
 
+SELECT DepartmentID, 
+	   FirstName, 
+       COUNT(*)
+	 AS [Count]
+FROM Employees 
+GROUP BY DepartmentID,Firstname
+HAVING COUNT(*) > 1
+ORDER BY COUNT(*) DESC
  -- Problem 1
 
    SELECT 
@@ -19,6 +28,25 @@ LEFT JOIN Addresses
 	   AS a 
 	   ON e.AddressID = a.AddressID
  ORDER BY AddressID
+
+
+ --Problem 4
+
+
+   SELECT 
+  TOP 5		
+		  e.EmployeeID,
+          e.FirstName,
+		  e.Salary,
+		  d.[Name]
+	   AS [DepartmentName]
+     FROM Employees
+       AS e
+LEFT JOIN Departments
+       AS d
+	   ON e.DepartmentID = d.DepartmentID
+    WHERE Salary > 15000
+ ORDER BY e.DepartmentID 
 
  -- Problem 5
 
