@@ -1,0 +1,5 @@
+C:\Users\cufti\AppData\Local\Temp\Temp3_02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0.zip\MiniORM\obj\Debug\net6.0\MiniORM.csproj.AssemblyReference.cache
+C:\Users\cufti\AppData\Local\Temp\Temp3_02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0.zip\MiniORM\obj\Debug\net6.0\MiniORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cufti\AppData\Local\Temp\Temp3_02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0.zip\MiniORM\obj\Debug\net6.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\cufti\AppData\Local\Temp\Temp3_02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0.zip\MiniORM\obj\Debug\net6.0\MiniORM.AssemblyInfo.cs
+C:\Users\cufti\AppData\Local\Temp\Temp3_02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0.zip\MiniORM\obj\Debug\net6.0\MiniORM.csproj.CoreCompileInputs.cache
