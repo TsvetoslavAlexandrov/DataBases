@@ -1,0 +1,12 @@
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.deps.json
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.dll
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.pdb
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.AssemblyReference.cache
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfoInputs.cache
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfo.cs
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.dll
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
+C:\DataBase\EntityFramework\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll
